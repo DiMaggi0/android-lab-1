@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-lab-1</string>
+    <string name="change">Change!</string>
+    <string name="change_background_app">Change background color app</string>
+    <string name="enter_color">Enter color</string>
+    <string name="wrong_input">Wrong input, please, try again!</string>
+</resources>
